@@ -1,0 +1,22 @@
+{
+  "name": "sample-vs-web",
+  "version": "1.0.0",
+  "description": "Sample VS web repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lacf95/sample-vs-web.git"
+  },
+  "author": "Luis Adrián Chávez Fregoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lacf95/sample-vs-web/issues"
+  },
+  "homepage": "https://github.com/lacf95/sample-vs-web#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
